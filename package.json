@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/folio-org/mod-metadata#readme",
   "dependencies": {
-    "raml2md": "3.*",
-    "raml2html": "3.*"
+    "raml-cop": "^5.0.0",
+    "raml2html": "3.*",
+    "raml2md": "3.*"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
