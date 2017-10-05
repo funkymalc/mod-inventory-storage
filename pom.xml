@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>mod-inventory-storage</artifactId>
   <groupId>org.folio</groupId>
-  <version>5.1.1</version>
+  <version>5.1.2-SNAPSHOT</version>
 
   <licenses>
     <license>
@@ -67,7 +67,7 @@
     <url>https://github.com/folio-org/mod-inventory-storage</url>
     <connection>scm:git:git://github.com:folio-org/mod-inventory-storage.git</connection>
     <developerConnection>scm:git:git@github.com:folio-org/mod-inventory-storage.git</developerConnection>
-    <tag>v5.1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
